@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_billie.mk
+    $(LOCAL_DIR)/potato_billie.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_billie-user \
-    aosp_billie-userdebug \
-    aosp_billie-eng
+    potato_billie-user \
+    potato_billie-userdebug \
+    potato_billie-eng
