@@ -1,8 +1,9 @@
 [
   {
-    "repository": "kernel_oneplus_sm7250",
-    "target_path": "kernel/oneplus/sm7250",
-    "branch": "ten"
+    "repository": "OnePlusOSS/android_kernel_oneplus_sm6350",
+    "target_path": "kernel/oneplus/sm6350",
+    "branch": "oneplus/SM6350_Q_10.0"
+    "remote": "github"
   },
   {
     "repository": "vendor_oneplus_billie",
